@@ -157,11 +157,6 @@ Each section had a detailed prompt including:
 - ✅ Edge (latest)
 - ✅ Mobile browsers (iOS Safari, Chrome Mobile)
 
-## 📖 How to Use This Project
-
-### View Live:
-Simply visit the [live demo link](https://your-deployment-link.netlify.app)
-
 ## 🎥 Video Walkthrough
 
 ****
