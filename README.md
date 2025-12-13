@@ -63,10 +63,6 @@ This project was created as part of a Front-End Development Internship assignmen
 - **Font Awesome 6** - Icon library
 - **Unsplash** - High-quality images
 
-## 🚀 Deployment
-
-This website is deployed on **[Netlify/Vercel]** with automatic deployment from the main branch.
-
 ### Deployment Steps:
 1. Push code to GitHub repository
 2. Connect repository to Netlify/Vercel
@@ -159,7 +155,8 @@ Each section had a detailed prompt including:
 
 ## 🎥 Video Walkthrough
 
-****
+
+**** https://share.vidyard.com/watch/hUFXrDeg9y69zZPZXmwcND
 
 In this video, I explain:
 - The meta-prompt strategy
